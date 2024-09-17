@@ -1,15 +1,3 @@
-# Learn PyTorch for Deep Learning
-
-Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch), the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
-
-* **Update April 2023:** New [tutorial for PyTorch 2.0](https://www.learnpytorch.io/pytorch_2_intro/) is live! And because PyTorch 2.0 is an additive (new features) and backward-compatible release, all previous course materials will *still* work with PyTorch 2.0.
-
-<div align="center">
-    <a href="https://learnpytorch.io">
-        <img src="https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/misc-pytorch-course-launch-cover-white-text-black-background.jpg" width=750 alt="pytorch deep learning by zero to mastery cover photo with different sections of the course">
-    </a>
-</div>
-
 ## Contents of this page
 
 * [Course materials/outline](https://github.com/mrdbourke/pytorch-deep-learning#course-materialsoutline)
